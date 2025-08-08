@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **future projects**
 
-- 🤝 I’m looking for help with **debugging**
+- 🤝 I’m looking to help with **debugging**
 
 - 👨‍💻 All of my projects are available at [......](......)
 
