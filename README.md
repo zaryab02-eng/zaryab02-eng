@@ -13,8 +13,6 @@
 
 - 🤝 I’m looking to help with **debugging**
 
-- 👨‍💻 All of my projects are available at [......](......)
-
 - 💬 Ask me about **anything upto what i'm working on**
 
 - 📫 How to reach me **mohdzaryab99@gmail.com**
