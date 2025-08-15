@@ -23,7 +23,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/zaryab212" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="zaryab212" height="30" width="40" /></a>
+<a href="https://twitter.com/zaryab212" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/twitter/follow/zaryab212?logo=x&style=for-the-badge&color=0891b2&labelColor=1c1917" />
+</a>
+
 <a href="https://linkedin.com/in/mohd-zaryab-678295365" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohd-zaryab-678295365" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@fr.zaryab" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="fr.zaryab" height="30" width="40" />
