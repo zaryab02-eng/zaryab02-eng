@@ -1,16 +1,16 @@
 <h1 align="center">Hi 👋, I'm Zaryab</h1>
 
 <div align="center">
-  <img src="https://github.com/zaryab02-eng/zaryab02-eng/blob/main/Muhammad%20Zaryab.png" alt="Zaryab Banner">
+  <img src="https://github.com/zaryab02-eng/zaryab02-eng/blob/main/Muhammad%20Zaryab.png" alt="Zaryab Banner" width="100%">
 </div>
 
-<h3 align="center">A passionate frontend developer from India. I work on frontend development and in my free time I create content on <a href="https://www.youtube.com/c/fr.zaryab" target="_blank">YouTube</a></h3>
+<h3 align="center">A passionate frontend developer from India. I work on frontend development and in my free time I create content on <a href="https://www.youtube.com/@fr.zaryab" target="_blank">YouTube</a></h3>
 
 <p align="center">
   <a href="https://github.com/zaryab02-eng">
     <img src="https://img.shields.io/github/followers/zaryab02-eng?label=Follow&style=social" />
   </a>
-  <a href="https://www.youtube.com/c/fr.zaryab">
+  <a href="https://www.youtube.com/@fr.zaryab">
     <img src="https://img.shields.io/youtube/channel/subscribers/UC_YOUR_CHANNEL_ID?style=social" />
   </a>
   <a href="https://linkedin.com/in/mohd-zaryab-678295365">
@@ -42,7 +42,7 @@
 <p align="left">
 <a href="https://twitter.com/zaryab212" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="zaryab212" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/mohd-zaryab-678295365" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohd-zaryab-678295365" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/fr.zaryab" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="fr.zaryab" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@fr.zaryab" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="fr.zaryab" height="30" width="40" /></a>
 </p>
 
 ---
