@@ -11,7 +11,7 @@
     <img src="https://img.shields.io/github/followers/zaryab02-eng?label=Follow&style=social" />
   </a>
   <a href="https://www.youtube.com/@fr.zaryab">
-    <img src="https://img.shields.io/youtube/channel/subscribers/UC_YOUR_CHANNEL_ID?style=social" />
+    <img src="https://img.shields.io/youtube/channel/subscribers/UCYRXLfXErtUh_hQpTvxmZ3w?style=social" />
   </a>
   <a href="https://linkedin.com/in/mohd-zaryab-678295365">
     <img src="https://img.shields.io/badge/LinkedIn-Mohd%20Zaryab-blue?logo=linkedin&style=flat-square" />
