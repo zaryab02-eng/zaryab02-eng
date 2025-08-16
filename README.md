@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm Zaryab</h1>
 
+<div align="center">
+  <img src="https://github.com/zaryab02-eng/zaryab02-eng/blob/main/Muhammad%20Zaryab.png" alt="Zaryab Banner">
+</div>
+
 <h3 align="center">A passionate frontend developer from India. I work on frontend development and in my free time I create content on <a href="https://www.youtube.com/c/fr.zaryab" target="_blank">YouTube</a></h3>
 
 <p align="center">
