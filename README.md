@@ -42,13 +42,26 @@
 
 <div align="center">
   <a href="https://zaryab02-eng.github.io/frontend-pratice/" target="_blank">
+    <img src="https://img.shields.io/badge/🌐%20Live%20Demo-Frontend%20Practice%20Portfolio-brightgreen?style=for-the-badge&logo=github" />
+  </a>
+</div>
+
+### 🚀 Featured Project
+
+<div align="center">
+  <a href="https://zaryab02-eng.github.io/frontend-pratice/" target="_blank">
     <img src="https://img.shields.io/badge/🌐%20Live%20Demo-Age%20Calculator-brightgreen?style=for-the-badge&logo=github" />
   </a>
 </div>
 
-**Age Calculator**  
-A smart web application for precise age calculation with historical events  
-🔗 [Live Demo](https://zaryab02-eng.github.io/frontend-pratice/)
+**Age Calculator** - A smart web application with personalized age insights
+- 💻 **Tech Stack**: HTML, CSS, JavaScript, Tailwind CSS
+- 🎯 **Smart Age Calculation**: Precise calculation with personalized comments based on age ranges
+- 📜 **Historical Events**: Discover fascinating events that happened on your birthday throughout history
+- 📱 **Mobile Optimized**: Beautiful design with custom mobile-friendly date picker for all devices
+- 🎨 **Eye-Friendly Themes**: Carefully crafted dark and light themes with smooth transitions
+- 🎭 **Fun Comments**: Entertaining and thoughtful comments that adapt to your age range
+- 🔗 **Live**: [https://zaryab02-eng.github.io/frontend-pratice/](https://zaryab02-eng.github.io/frontend-pratice/)
 
 ---
 
@@ -64,6 +77,7 @@ A smart web application for precise age calculation with historical events
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
