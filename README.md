@@ -1,4 +1,5 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Zaryab
+
+<h1 align="center">Hi 👋, I'm Zaryab</h1>
 
 <div align="center">
   <img src="https://github.com/zaryab02-eng/zaryab02-eng/blob/main/Muhammad%20Zaryab.png" alt="Zaryab Banner" width="100%">
