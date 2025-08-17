@@ -37,15 +37,6 @@
 - ⚡ Fun fact **im extremly creative and enthusiastic**
 
 ---
-
-### 🚀 Featured Project
-
-<div align="center">
-  <a href="https://zaryab02-eng.github.io/frontend-pratice/" target="_blank">
-    <img src="https://img.shields.io/badge/🌐%20Live%20Demo-Frontend%20Practice%20Portfolio-brightgreen?style=for-the-badge&logo=github" />
-  </a>
-</div>
-
 ### 🚀 Featured Project
 
 <div align="center">
