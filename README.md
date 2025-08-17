@@ -38,6 +38,33 @@
 
 ---
 
+### 🚀 Featured Project
+
+<div align="center">
+  <a href="https://zaryab02-eng.github.io/frontend-pratice/" target="_blank">
+    <img src="https://img.shields.io/badge/🌐%20Live%20Demo-Frontend%20Practice%20Portfolio-brightgreen?style=for-the-badge&logo=github" />
+  </a>
+</div>
+
+### 🚀 Featured Project
+
+<div align="center">
+  <a href="https://zaryab02-eng.github.io/frontend-pratice/" target="_blank">
+    <img src="https://img.shields.io/badge/🌐%20Live%20Demo-Age%20Calculator-brightgreen?style=for-the-badge&logo=github" />
+  </a>
+</div>
+
+**Age Calculator** - A smart web application with personalized age insights
+- 💻 **Tech Stack**: HTML, CSS, JavaScript, Tailwind CSS
+- 🎯 **Smart Age Calculation**: Precise calculation with personalized comments based on age ranges
+- 📜 **Historical Events**: Discover fascinating events that happened on your birthday throughout history
+- 📱 **Mobile Optimized**: Beautiful design with custom mobile-friendly date picker for all devices
+- 🎨 **Eye-Friendly Themes**: Carefully crafted dark and light themes with smooth transitions
+- 🎭 **Fun Comments**: Entertaining and thoughtful comments that adapt to your age range
+- 🔗 **Live**: [https://zaryab02-eng.github.io/frontend-pratice/](https://zaryab02-eng.github.io/frontend-pratice/)
+
+---
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/zaryab212" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="zaryab212" height="30" width="40" /></a>
