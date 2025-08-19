@@ -1,8 +1,4 @@
-<h1 align="center">
-  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px"> 
-  Hi, I'm Zaryab 
-  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">
-</h1>
+<h1 align="center">Hi 👋, I'm Zaryab</h1>
 
 <div align="center">
   <img src="https://github.com/zaryab02-eng/zaryab02-eng/blob/main/Muhammad%20Zaryab.png" alt="Zaryab Banner" width="100%">
@@ -21,6 +17,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-Mohd%20Zaryab-blue?logo=linkedin&style=flat-square" />
   </a>
 </p>
+
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
@@ -46,14 +43,6 @@
 
 <div align="center">
   <a href="https://zaryab02-eng.github.io/frontend-pratice/" target="_blank">
-    <img src="https://img.shields.io/badge/🌐%20Live%20Demo-Frontend%20Practice%20Portfolio-brightgreen?style=for-the-badge&logo=github" />
-  </a>
-</div>
-
-### 🚀 Featured Project
-
-<div align="center">
-  <a href="https://zaryab02-eng.github.io/frontend-pratice/" target="_blank">
     <img src="https://img.shields.io/badge/🌐%20Live%20Demo-Age%20Calculator-brightgreen?style=for-the-badge&logo=github" />
   </a>
 </div>
@@ -69,10 +58,7 @@
 
 ---
 
-<h3 align="left">
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-  Connect with me:
-</h3>
+<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/zaryab212" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="zaryab212" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/mohd-zaryab-678295365" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohd-zaryab-678295365" height="30" width="40" /></a>
@@ -81,10 +67,7 @@
 
 ---
 
-<h3 align="left">
-  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35" height="35"> 
-  Languages and Tools:
-</h3>
+<h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
