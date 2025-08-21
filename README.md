@@ -1,8 +1,4 @@
-<h1 align="center">
-  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px"> 
-  Hi, I'm Zaryab 
-  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">
-</h1>
+<h1 align="center">Hi 👋, I'm Zaryab</h1>
 
 <div align="center">
   <img src="https://github.com/zaryab02-eng/zaryab02-eng/blob/main/Muhammad%20Zaryab.png" alt="Zaryab Banner" width="100%">
@@ -26,12 +22,6 @@
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=zaryab02-eng&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
-
-<p align="left"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=zaryab02-eng&theme=vue&no-frame=false&no-bg=true&margin-w=4" alt="zaryab02-eng" />
-  </a> 
 </p>
 
 <p align="left"> 
@@ -79,7 +69,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zaryab02-eng&show_icons=true&locale=en&theme=vue&hide_border=true" alt="GitHub Stats" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zaryab02-eng&theme=vue&hide_border=true" alt="zaryab02-eng" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zaryab02-eng&" alt="zaryab02-eng" /></p>
 
 ---
 ### 🔥 GitHub Contribution Streak
