@@ -71,12 +71,12 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zaryab02-eng&show_icons=true&locale=en&theme=vue&hide_border=true" alt="GitHub Stats" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zaryab02-eng&" alt="zaryab02-eng" /></p>
-
 ---
 ### 🔥 GitHub Contribution Streak
 
 ![GitHub Streak Badge](https://img.shields.io/badge/GitHub%20Streak-Active-brightgreen?logo=github&style=for-the-badge)
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zaryab02-eng&" alt="zaryab02-eng" /></p>
 
 ---
 
