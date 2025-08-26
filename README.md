@@ -67,13 +67,13 @@
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zaryab02-eng&show_icons=true&locale=en&layout=compact&theme=vue&hide_border=true" alt="Top Langs" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zaryab02-eng&show_icons=true&locale=en&theme=vue&hide_border=true" alt="GitHub Stats" /></p>
 
 ---
 ### 🔥 GitHub Contribution Streak
 
 <p><img align="center" src="https://nirzak-streak-stats.vercel.app/?user=zaryab02-eng&theme=vue" alt="zaryab02-eng" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zaryab02-eng&show_icons=true&locale=en&theme=vue&hide_border=true" alt="GitHub Stats" /></p>
 ---
 
 ### 🔝 Top Contributed Repo
