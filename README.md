@@ -70,15 +70,13 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zaryab02-eng&show_icons=true&locale=en&theme=vue&hide_border=true" alt="GitHub Stats" /></p>
 
-<p><img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=zaryab02-eng&theme=vue&hide_border=true" alt="zaryab02-eng" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zaryab02-eng&theme=vue&hide_border=true&card_width=800" alt="zaryab02-eng" /></p>
 
 ---
 ### 🔥 GitHub Contribution Streak
 
 <p align="center">
-<img src="https://img.shields.io/badge/🔥_Streak-Active_Developer-orange?style=for-the-badge&logo=github" alt="Active Streak" />
-<img src="https://img.shields.io/badge/💻_Commits-Daily_Coder-blue?style=for-the-badge&logo=git" alt="Daily Commits" />
-<img src="https://img.shields.io/badge/🚀_Projects-In_Progress-green?style=for-the-badge&logo=rocket" alt="Projects" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=zaryab02-eng&theme=vue&hide_border=true" alt="GitHub Streak Stats" />
 </p>
 
 ---
