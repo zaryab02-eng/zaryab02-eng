@@ -10,7 +10,7 @@
   <a href="https://github.com/zaryab02-eng">
     <img src="https://img.shields.io/github/followers/zaryab02-eng?label=Follow&style=social" />
   </a>
-  <a href="https://www.youtube.com/@fr.zaryab">
+  <a href="https://www.youtube.com/@DevVibes-2">
     <img src="https://img.shields.io/youtube/channel/subscribers/UCYRXLfXErtUh_hQpTvxmZ3w?style=social" />
   </a>
   <a href="https://linkedin.com/in/mohd-zaryab-678295365">
