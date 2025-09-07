@@ -123,20 +123,13 @@
 
 ## 🚀 Featured Projects:
 
-<div align="center">
-  <a href="https://github.com/zaryab02-eng/frontend-pratice">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=zaryab02-eng&repo=frontend-pratice&theme=vue&hide_border=true" />
-  </a>
-</div>
-
 ### 🎯 Age Calculator
 **A smart web application for precise age calculation with historical events**
 - ✨ Modern UI/UX with responsive design
 - 🎨 Built with HTML, CSS, and JavaScript
 - 📱 Mobile-friendly interface
 
-🔗 **[Live Demo](https://zaryab02-eng.github.io/frontend-pratice/)** | 
-📂 **[Source Code](https://github.com/zaryab02-eng/frontend-pratice)**
+🔗 **[Live Demo](https://zaryab02-eng.github.io/frontend-pratice/)**
 
 ---
 
