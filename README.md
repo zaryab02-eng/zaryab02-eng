@@ -95,9 +95,12 @@
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=zaryab02-eng&layout=compact&langs_count=8&theme=vue&hide_border=true&include_all_commits=true&count_private=true&disable_animations=false"/>
 </div>
 
-<!-- Alternative stats in case primary doesn't update -->
+---
+
+## 🏆 GitHub Trophies:
+
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=zaryab02-eng&layout=compact&langs_count=8&theme=vue&hide_border=true&include_all_commits=true&count_private=true&custom_title=Most%20Used%20Languages&card_width=400"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=zaryab02-eng&theme=vue&no-frame=true&no-bg=false&margin-w=4&row=2&column=4" />
 </div>
 
 ---
@@ -110,18 +113,26 @@
 
 ---
 
-## 🏆 GitHub Trophies:
+## ⚡ Recent Activity:
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=zaryab02-eng&theme=vue&no-frame=true&no-bg=false&margin-w=4&row=1" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zaryab02-eng&theme=vue&hide_border=true&bg_color=0d1117&color=5BCDEC&line=5BCDEC&point=FFFFFF" />
 </div>
 
 ---
 
-## 📈 Activity Graph:
+## 🎯 Coding Stats:
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zaryab02-eng&theme=vue&hide_border=true&bg_color=0d1117&color=5BCDEC&line=5BCDEC&point=FFFFFF" />
+  <img src="https://github-widgetbox.vercel.app/api/profile?username=zaryab02-eng&data=followers,repositories,stars,commits&theme=vue" />
+</div>
+
+---
+
+## 💻 Development Environment:
+
+<div align="center">
+  <img src="https://github-widgetbox.vercel.app/api/skills?languages=html,css,js,tailwindcss,figma,git&theme=vue&names=true" />
 </div>
 
 ---
