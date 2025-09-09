@@ -30,8 +30,6 @@
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-
-
 ## 🚀 About Me
 
 - 🔭 I'm currently working on **Advanced JavaScript & React Projects**
@@ -94,7 +92,7 @@
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zaryab02-eng&show_icons=true&locale=en&theme=vue&hide_border=true&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=zaryab02-eng&layout=compact&langs_count=8&theme=vue&hide_border=true&include_all_commits=true&count_private=true&hide=hack,scss"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=zaryab02-eng&layout=compact&langs_count=8&theme=vue&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=60&v=3"/>
 </div>
 
 ---
