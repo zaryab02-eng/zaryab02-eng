@@ -132,7 +132,7 @@
 ## 💻 Development Environment:
 
 <div align="center">
-  <img src="https://github-widgetbox.vercel.app/api/skills?languages=html,css,js,tailwindcss,figma,git&theme=vue&names=true" />
+  <img src="https://github-widgetbox.vercel.app/api/skills?languages=html,css,js,tailwindcss&includeNames=true&theme=vue" />
 </div>
 
 ---
