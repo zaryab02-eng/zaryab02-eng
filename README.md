@@ -7,6 +7,9 @@
 <h3 align="center">A passionate Frontend Developer from India 🇮🇳</h3>
 <h4 align="center">Building beautiful user interfaces & creating content on <a href="https://www.youtube.com/@fr.zaryab" target="_blank">YouTube</a> 🎥</h4>
 
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=Frontend+Developer;React.js+Learner;JavaScript+Enthusiast;UI%2FUX+Creator" alt="Typing SVG" />
+</div>
 
 <p align="center">
   <a href="https://github.com/zaryab02-eng">
@@ -33,15 +36,32 @@
 
 ## 🚀 About Me
 
-- 🔭 I'm currently working on **Advanced JavaScript & React Projects**
-- 🌱 I'm currently learning **React.js, Node.js & Modern JavaScript**  
-- 👯 I'm looking to collaborate on **Open Source Projects**
-- 🤝 I'm looking to help with **Frontend Development & Debugging**
-- 💬 Ask me about **HTML, CSS, JavaScript, Tailwind CSS**
+- 🔭 I'm currently working on **React.js Projects & Advanced JavaScript Applications**
+- 🌱 I'm currently learning **React.js with Vite, Node.js & Modern JavaScript ES6+**  
+- 🎯 **NEW:** Started my React journey today with Vite setup and first components!
+- 👯 I'm looking to collaborate on **Open Source React Projects**
+- 🤝 I'm looking to help with **Frontend Development, React Components & Debugging**
+- 💬 Ask me about **HTML, CSS, JavaScript, React.js, Tailwind CSS**
 - 📫 How to reach me: **mohdzaryab99@gmail.com**
-- ⚡ Fun fact: **I'm extremely creative and enthusiastic about UI/UX!**
+- ⚡ Fun fact: **I'm extremely creative and enthusiastic about UI/UX & React ecosystem!**
 
 <br clear="right"/>
+
+---
+
+## 🎓 Learning Journey:
+
+<div align="center">
+  <img src="https://img.shields.io/badge/🎯_Current_Focus-React.js_with_Vite-61DAFB?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/📚_Learning-Component_Based_Architecture-FF6B6B?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🚀_Goal-Full_Stack_Developer-4ECDC4?style=for-the-badge" />
+</div>
+
+### 📈 Current Progress:
+- ✅ **Day 1:** Initialized React project with Vite
+- ✅ **Day 1:** Created first React components
+- 🔄 **In Progress:** Learning JSX and React fundamentals
+- 📝 **Next:** State management and hooks
 
 ---
 
@@ -66,6 +86,7 @@
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35" height="35"> Tech Stack:
 
+### Frontend Technologies:
 <p align="left">
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
@@ -76,14 +97,27 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
   </a>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
+  </a>
+  <a href="https://vitejs.dev/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vite/vite-original.svg" alt="Vite" width="40" height="40"/>
+  </a>
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/>
   </a>
+</p>
+
+### Tools & Design:
+<p align="left">
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/>
   </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
+  </a>
+  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
   </a>
 </p>
 
@@ -133,7 +167,7 @@
 ## 💻 Development Environment:
 
 <div align="center">
-  <img src="https://github-widgetbox.vercel.app/api/skills?languages=html,css,js,tailwindcss&includeNames=true&theme=vue" />
+  <img src="https://github-widgetbox.vercel.app/api/skills?languages=html,css,js,react,tailwindcss&includeNames=true&theme=vue" />
 </div>
 
 ---
@@ -148,6 +182,33 @@
 
 🔗 **[Live Demo](https://zaryab02-eng.github.io/frontend-pratice/)**
 
+### ⚛️ React Learning Journey (NEW!)
+**Starting my React.js adventure with Vite setup**
+- 🚀 Modern React with Vite for faster development
+- 🎯 Learning component-based architecture
+- 📚 Building foundation for advanced React concepts
+
+---
+
+## 📚 Learning Roadmap:
+
+<div align="center">
+
+### 🎯 Current Phase: React Fundamentals
+```
+Week 1-2: JSX, Components, Props
+Week 3-4: State, Events, Conditional Rendering
+Week 5-6: Hooks (useState, useEffect)
+Week 7-8: Forms, Lists, and Keys
+```
+
+### 🚀 Next Phase: Advanced React
+```
+React Router | State Management | API Integration | Testing
+```
+
+</div>
+
 ---
 
 ## 💼 Open to Opportunities:
@@ -155,7 +216,8 @@
 <img src="https://media.giphy.com/media/jTNG3RF6EwbkpD4LZx/giphy.gif" width="25" height="25">
 
 - 🎯 **Frontend Development Projects**
-- 🤝 **Open Source Collaborations**
+- ⚛️ **React.js Learning Collaborations**
+- 🤝 **Open Source Contributions**
 - 🎥 **YouTube Content Collaborations**
 - 🎓 **Mentorship & Code Reviews**
 - 💡 **UI/UX Design Projects**
@@ -181,10 +243,11 @@
 
 ---
 
-
 <div align="center">
-  <h3>💫 "Building beautiful user interfaces, one component at a time!" 💫</h3>
-  <p><em>Helping developers create amazing frontend experiences with creativity and enthusiasm</em></p>
+  <h3>💫 "Building beautiful user interfaces with React, one component at a time!" 💫</h3>
+  <p><em>Currently diving deep into React.js ecosystem and sharing the journey with fellow developers</em></p>
+  
+  <img src="https://img.shields.io/badge/React_Journey-Day_1_Complete!-success?style=for-the-badge&logo=react&logoColor=white" />
   
   **⭐ Star my repositories if you find them helpful!**
   
