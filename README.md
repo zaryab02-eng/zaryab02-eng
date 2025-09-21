@@ -176,34 +176,6 @@
 
 🔗 **[Live Demo](https://zaryab02-eng.github.io/frontend-pratice/)**
 
-### ⚛️ React Learning Journey (NEW!)
-**Starting my React.js adventure with Vite setup**
-- 🚀 Modern React with Vite for faster development
-- 🎯 Learning component-based architecture
-- 📚 Building foundation for advanced React concepts
-
----
-
-## 📚 Learning Roadmap:
-
-<div align="center">
-
-### 🎯 Current Phase: React Fundamentals
-```
-Week 1-2: JSX, Components, Props
-Week 3-4: State, Events, Conditional Rendering
-Week 5-6: Hooks (useState, useEffect)
-Week 7-8: Forms, Lists, and Keys
-```
-
-### 🚀 Next Phase: Advanced React
-```
-React Router | State Management | API Integration | Testing
-```
-
-</div>
-
----
 
 ## 💼 Open to Opportunities:
 
