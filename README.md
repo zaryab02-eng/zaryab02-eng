@@ -57,12 +57,6 @@
   <img src="https://img.shields.io/badge/🚀_Goal-Full_Stack_Developer-4ECDC4?style=for-the-badge" />
 </div>
 
-### 📈 Current Progress:
-- ✅ **Day 1:** Initialized React project with Vite
-- ✅ **Day 1:** Created first React components
-- 🔄 **In Progress:** Learning JSX and React fundamentals
-- 📝 **Next:** State management and hooks
-
 ---
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Connect with me:
