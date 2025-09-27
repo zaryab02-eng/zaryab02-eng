@@ -3,14 +3,14 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=45&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=1200&height=100&lines=FRONTEND+DEVELOPER+%7C+REACT+ENTHUSIAST+%7C+UI%2FUX+CREATOR" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=35&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=800&height=80&lines=FRONTEND+DEVELOPER;REACT+ENTHUSIAST;UI%2FUX+CREATOR" alt="Typing SVG" />
 </div>
 
 <div align="center">
   <a href="https://github.com/zaryab02-eng"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="https://linkedin.com/in/mohd-zaryab-678295365"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://www.youtube.com/@DevVibes-2"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
-  <a href="https://twitter.com/zaryab212"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="https://twitter.com/zaryab212"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
   <a href="mailto:mohdzaryab99@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://mohd-zaryab-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a>
 </div>
@@ -33,12 +33,12 @@ const Zaryab = {
     askMeAbout: ["Web Dev", "Tech", "UI/UX", "React"],
     technologies: {
         frontEnd: {
-            js: ["React", "Vanilla JS", "ES6+"],
-            css: ["Tailwind", "Bootstrap", "Styled Components"],
-            uiLibraries: ["Material UI", "Ant Design"]
+            js: ["React", "Vanilla JS"],
+            css: ["Tailwind CSS", "CSS3"],
+            tools: ["Vite", "Figma"]
         },
         tools: ["Vite", "Git", "GitHub", "VS Code", "Figma"],
-        learning: ["Node.js", "TypeScript", "Next.js"]
+        currentlyLearning: ["React.js", "Advanced JavaScript"]
     },
     currentFocus: "Building amazing React applications",
     funFact: "I can debug for hours with just coffee and lo-fi music!"
@@ -51,18 +51,15 @@ const Zaryab = {
 
 <div align="center">
 
-### **Frontend Mastery**
-<img src="https://skillicons.dev/icons?i=html,css,js,react,vite,tailwind,bootstrap,materialui,figma&perline=9" />
+### **Frontend Technologies**
+<img src="https://skillicons.dev/icons?i=html,css,js,react,vite,tailwind,figma&perline=7" />
 
-### **Tools & Technologies**
-<img src="https://skillicons.dev/icons?i=git,github,vscode,npm,vercel,netlify&perline=6" />
-
-### **Currently Learning**
-<img src="https://skillicons.dev/icons?i=nodejs,typescript,nextjs,mongodb&perline=4" />
+### **Tools & Workflow**
+<img src="https://skillicons.dev/icons?i=git,github,vscode&perline=3" />
 
 </div>
 
-## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="40"> **GITHUB ANALYTICS**
+## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="40"> **GITHUB STATS**
 
 <div align="center">
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=zaryab02-eng&show_icons=true&count_private=true&hide_border=true&title_color=00D4FF&icon_color=00D4FF&text_color=c9d1d9&bg_color=0d1117" />
@@ -71,10 +68,6 @@ const Zaryab = {
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=zaryab02-eng&theme=black-ice&hide_border=true&stroke=0000&background=0d1117&ring=00D4FF&fire=00D4FF&currStreakLabel=00D4FF" width="90%" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=zaryab02-eng&theme=algolia&no-frame=true&no-bg=true&margin-w=4&column=7" width="90%" />
 </div>
 
 ## <img src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif" width="40"> **CONTRIBUTION GRAPH**
@@ -97,7 +90,7 @@ const Zaryab = {
 </a>
 </div>
 <p align="center">
-A smart web application for precise age calculation with historical events. Features modern UI/UX with responsive design.
+A smart web application for precise age calculation with responsive design.
 </p>
 <p align="center">
 <img src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white"/>
@@ -118,15 +111,6 @@ Currently working on exciting React.js projects. Stay tuned for updates!
 </table>
 </div>
 
-## <img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png" width="40"> **LATEST YOUTUBE VIDEOS**
-
-<div align="center">
-  <a href="https://www.youtube.com/@DevVibes-2">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-  </a>
-  <p>🎥 Creating content about Web Development, React.js, and UI/UX Design</p>
-</div>
-
 ## <img src="https://user-images.githubusercontent.com/74038190/235294010-ec412ef5-e3da-4efa-b1d4-0ab4d4638755.gif" width="40"> **CONNECT WITH ME**
 
 <div align="center">
@@ -138,7 +122,7 @@ Currently working on exciting React.js projects. Stay tuned for updates!
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://twitter.com/zaryab212" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
   </a>
   <a href="https://www.youtube.com/@DevVibes-2" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
