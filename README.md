@@ -6,8 +6,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=35&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&repeat=true&random=false&width=600&height=80&lines=FRONTEND+DEVELOPER" alt="Typing SVG" />
 </div>
 
-<br>
-
 <div align="center">
   <a href="https://github.com/zaryab02-eng"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="https://linkedin.com/in/mohd-zaryab-678295365"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
