@@ -3,8 +3,10 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=35&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=800&height=80&lines=FRONTEND+DEVELOPER;REACT+ENTHUSIAST;UI%2FUX+CREATOR" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=35&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=800&height=120&lines=FRONTEND+DEVELOPER;REACT+ENTHUSIAST;UI%2FUX+CREATOR" alt="Typing SVG" />
 </div>
+
+<br>
 
 <div align="center">
   <a href="https://github.com/zaryab02-eng"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
