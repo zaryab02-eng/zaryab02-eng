@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=35&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=800&height=120&lines=FRONTEND+DEVELOPER;REACT+ENTHUSIAST;UI%2FUX+CREATOR" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=30&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=900&height=100&lines=FRONTEND+DEVELOPER;REACT+ENTHUSIAST;UI%2FUX+CREATOR" alt="Typing SVG" />
 </div>
 
 <br>
@@ -116,7 +116,7 @@ Currently working on exciting React.js projects. Stay tuned for updates!
 ## <img src="https://user-images.githubusercontent.com/74038190/235294010-ec412ef5-e3da-4efa-b1d4-0ab4d4638755.gif" width="40"> **CONNECT WITH ME**
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="100">
+  <img src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" width="100">
   
   <br><br>
   
