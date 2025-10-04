@@ -146,7 +146,7 @@ Currently working on exciting React.js projects. Stay tuned for updates!
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
   
-  ### **💫 "Turning Ideas into Interactive Experiences" 💫**
+  ### **💫"Turning Ideas into Interactive Experiences"💫**
   
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16,18,20&height=100&section=footer&fontSize=15&fontColor=00D4FF&animation=twinkling" width="100%" />
 </div>
