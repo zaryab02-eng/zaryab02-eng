@@ -1,18 +1,18 @@
 <br clear="right"/>
 
-## <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="40"> **TECH STACK**
+ <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="40"> **TECH STACK**
 
 <div align="center">
 
-### **Frontend Technologies**
+ **Frontend Technologies**
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite,tailwind,figma&perline=8" />
 
-### **Tools & Workflow**
+ **Tools & Workflow**
 <img src="https://skillicons.dev/icons?i=git,github,vscode&perline=3" />
 
 </div>
 
-## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="40"> **GITHUB STATS**
+ <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="40"> **GITHUB STATS**
 
 <div align="center">
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=zaryab02-eng&show_icons=true&count_private=true&hide_border=true&title_color=00D4FF&icon_color=00D4FF&text_color=c9d1d9&bg_color=0d1117" />
@@ -23,11 +23,11 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=zaryab02-eng&theme=black-ice&hide_border=true&stroke=0000&background=0d1117&ring=00D4FF&fire=00D4FF&currStreakLabel=00D4FF" width="90%" />
 </div>
 
-## <img src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif" width="40"> **CONTRIBUTION GRAPH**
+ <img src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif" width="40"> **CONTRIBUTION GRAPH**
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=zaryab02-eng&custom_title=Zaryab's%20Activity%20Graph&bg_color=0d1117&color=00D4FF&line=00D4FF&point=00D4FF&area_color=FFFFFF&title_color=FFFFFF&area=true&hide_border=true" width="100%"/>
 
-## <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="40"> **FEATURED PROJECTS**
+ <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="40"> **FEATURED PROJECTS**
 
 <div align="center">
 <table>
@@ -64,7 +64,7 @@ Currently working on exciting React.js projects. Stay tuned for updates!
 </table>
 </div>
 
-## <img src="https://user-images.githubusercontent.com/74038190/235294010-ec412ef5-e3da-4efa-b1d4-0ab4d4638755.gif" width="40"> **CONNECT WITH ME**
+ <img src="https://user-images.githubusercontent.com/74038190/235294010-ec412ef5-e3da-4efa-b1d4-0ab4d4638755.gif" width="40"> **CONNECT WITH ME**
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" width="100">
