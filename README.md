@@ -1,18 +1,83 @@
+<div align="center">
+  <img src="https://github.com/zaryab02-eng/zaryab02-eng/blob/main/Muhammad%20Zaryab.png" alt="Zaryab Banner" width="100%">
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=35&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&repeat=true&random=false&width=600&height=80&lines=FRONTEND+DEVELOPER" alt="Typing SVG" />
+</div>
+
+<div align="center">
+  <a href="https://github.com/zaryab02-eng"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/mohd-zaryab-678295365"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.youtube.com/@DevVibes-2"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+  <a href="https://twitter.com/zaryab212"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
+  <a href="mailto:mohdzaryab99@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://mohd-zaryab-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a>
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+</div>
+
+## <img src="https://user-images.githubusercontent.com/74038190/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png" width="40"> **ABOUT ME**
+
+<img align="right" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+
+```typescript
+interface Developer {
+    location: string;
+    role: string;
+    code: string[];
+    askMeAbout: string[];
+    technologies: {
+        frontEnd: {
+            js: string[];
+            css: string[];
+            tools: string[];
+        };
+        tools: string[];
+        currentlyLearning: string[];
+    };
+    currentFocus: string;
+    funFact: string;
+}
+
+const Zaryab: Developer = {
+    location: "🇮🇳 India",
+    role: "Frontend Developer",
+    code: ["JavaScript", "TypeScript", "HTML", "CSS", "React"],
+    askMeAbout: ["Web Dev", "Tech", "UI/UX", "React"],
+    technologies: {
+        frontEnd: {
+            js: ["React", "Vanilla JS", "TypeScript"],
+            css: ["Tailwind CSS", "CSS3"],
+            tools: ["Vite", "Figma"]
+        },
+        tools: ["Vite", "Git", "GitHub", "VS Code", "Figma"],
+        currentlyLearning: ["React.js", "TypeScript", "Advanced JavaScript"]
+    },
+    currentFocus: "Building amazing React applications with TypeScript",
+    funFact: "I can debug for hours with just coffee and lo-fi music!"
+};
+```
+
 <br clear="right"/>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="40"> **TECH STACK**
+## <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="40"> **TECH STACK**
 
 <div align="center">
 
-**Frontend Technologies**
+### **Frontend Technologies**
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite,tailwind,figma&perline=8" />
 
-**Tools & Workflow**
+### **Tools & Workflow**
 <img src="https://skillicons.dev/icons?i=git,github,vscode&perline=3" />
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="40"> **GITHUB STATS**
+## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="40"> **GITHUB STATS**
 
 <div align="center">
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=zaryab02-eng&show_icons=true&count_private=true&hide_border=true&title_color=00D4FF&icon_color=00D4FF&text_color=c9d1d9&bg_color=0d1117" />
@@ -23,11 +88,11 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=zaryab02-eng&theme=black-ice&hide_border=true&stroke=0000&background=0d1117&ring=00D4FF&fire=00D4FF&currStreakLabel=00D4FF" width="90%" />
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif" width="40"> **CONTRIBUTION GRAPH**
+## <img src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif" width="40"> **CONTRIBUTION GRAPH**
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=zaryab02-eng&custom_title=Zaryab's%20Activity%20Graph&bg_color=0d1117&color=00D4FF&line=00D4FF&point=00D4FF&area_color=FFFFFF&title_color=FFFFFF&area=true&hide_border=true" width="100%"/>
 
-<img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="40"> **FEATURED PROJECTS**
+## <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="40"> **FEATURED PROJECTS**
 
 <div align="center">
 <table>
@@ -64,7 +129,7 @@ Currently working on exciting React.js projects. Stay tuned for updates!
 </table>
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/235294010-ec412ef5-e3da-4efa-b1d4-0ab4d4638755.gif" width="40"> **CONNECT WITH ME**
+## <img src="https://user-images.githubusercontent.com/74038190/235294010-ec412ef5-e3da-4efa-b1d4-0ab4d4638755.gif" width="40"> **CONNECT WITH ME**
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" width="100">
@@ -99,7 +164,7 @@ Currently working on exciting React.js projects. Stay tuned for updates!
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
   
-  **💫"Turning Ideas into Interactive Experiences"💫**
+  ### **💫"Turning Ideas into Interactive Experiences"💫**
   
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16,18,20&height=100&section=footer&fontSize=15&fontColor=00D4FF&animation=twinkling" width="100%" />
 </div>
