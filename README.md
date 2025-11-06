@@ -1,50 +1,3 @@
-<div align="center">
-  <img src="https://github.com/zaryab02-eng/zaryab02-eng/blob/main/Muhammad%20Zaryab.png" alt="Zaryab Banner" width="100%">
-</div>
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=35&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&repeat=true&random=false&width=600&height=80&lines=FRONTEND+DEVELOPER" alt="Typing SVG" />
-</div>
-
-<div align="center">
-  <a href="https://github.com/zaryab02-eng"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/mohd-zaryab-678295365"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://www.youtube.com/@DevVibes-2"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
-  <a href="https://twitter.com/zaryab212"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
-  <a href="mailto:mohdzaryab99@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://mohd-zaryab-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a>
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-</div>
-
-## <img src="https://user-images.githubusercontent.com/74038190/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png" width="40"> **ABOUT ME**
-
-<img align="right" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
-
-```javascript
-const Zaryab = {
-    location: "🇮🇳 India",
-    role: "Frontend Developer",
-    code: ["JavaScript", "HTML", "CSS", "React"],
-    askMeAbout: ["Web Dev", "Tech", "UI/UX", "React"],
-    technologies: {
-        frontEnd: {
-            js: ["React", "Vanilla JS"],
-            css: ["Tailwind CSS", "CSS3"],
-            tools: ["Vite", "Figma"]
-        },
-        tools: ["Vite", "Git", "GitHub", "VS Code", "Figma"],
-        currentlyLearning: ["React.js", "Advanced JavaScript"]
-    },
-    currentFocus: "Building amazing React applications",
-    funFact: "I can debug for hours with just coffee and lo-fi music!"
-};
-```
-
 <br clear="right"/>
 
 ## <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="40"> **TECH STACK**
@@ -52,7 +5,7 @@ const Zaryab = {
 <div align="center">
 
 ### **Frontend Technologies**
-<img src="https://skillicons.dev/icons?i=html,css,js,react,vite,tailwind,figma&perline=7" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite,tailwind,figma&perline=8" />
 
 ### **Tools & Workflow**
 <img src="https://skillicons.dev/icons?i=git,github,vscode&perline=3" />
