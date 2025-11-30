@@ -1,4 +1,8 @@
 <div align="center">
+  <img src="https://github.com/zaryab02-eng/zaryab02-eng/blob/main/Muhammad%20Zaryab.png" alt="Zaryab Banner" width="100%">
+</div>
+
+<div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=35&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&repeat=true&random=false&width=600&height=80&lines=FRONTEND+DEVELOPER" alt="Typing SVG" />
 </div>
 
@@ -84,6 +88,10 @@ const Zaryab: Developer = {
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=zaryab02-eng&theme=black-ice&hide_border=true&stroke=0000&background=0d1117&ring=00D4FF&fire=00D4FF&currStreakLabel=00D4FF" width="90%" />
 </div>
 
+## <img src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif" width="40"> **CONTRIBUTION GRAPH**
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=zaryab02-eng&custom_title=Zaryab's%20Activity%20Graph&bg_color=0d1117&color=00D4FF&line=00D4FF&point=00D4FF&area_color=FFFFFF&title_color=FFFFFF&area=true&hide_border=true" width="100%"/>
+
 ## <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="40"> **FEATURED PROJECTS**
 
 <div align="center">
@@ -109,6 +117,27 @@ Pixel-perfect clone of Apple's website built with React, Vite & Tailwind CSS. Fu
 </p>
 </td>
 <td width="50%">
+<h3 align="center">📊 Shop Management App</h3>
+<div align="center">
+<a href="https://management-app-green.vercel.app/" target="_blank">
+<img src="https://img.shields.io/badge/LIVE%20DEMO-00D4FF?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+<a href="https://github.com/zaryab02-eng/shop-management" target="_blank">
+<img src="https://img.shields.io/badge/SOURCE%20CODE-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</div>
+<p align="center">
+Full-featured dashboard with authentication, role-based access & SMS notifications. Reduced manual tracking by 40%.
+</p>
+<p align="center">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/Tailwind-38B2AC?logo=tailwind-css&logoColor=white"/>
+<img src="https://img.shields.io/badge/Clerk-6C47FF?logo=clerk&logoColor=white"/>
+</p>
+</td>
+</tr>
+<tr>
+<td width="50%">
 <h3 align="center">🎯 Age Calculator</h3>
 <div align="center">
 <a href="https://zaryab02-eng.github.io/frontend-pratice/" target="_blank">
@@ -119,12 +148,21 @@ Pixel-perfect clone of Apple's website built with React, Vite & Tailwind CSS. Fu
 </a>
 </div>
 <p align="center">
-A smart web application for precise age calculation with responsive design.
+Smart age calculator with precise computation, "On This Day in History" feature & light/dark theme toggle.
 </p>
 <p align="center">
 <img src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black"/>
+</p>
+</td>
+<td width="50%">
+<h3 align="center">🚀 More Coming Soon</h3>
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="200"/>
+</div>
+<p align="center">
+Currently working on exciting React.js projects. Stay tuned for updates!
 </p>
 </td>
 </tr>
