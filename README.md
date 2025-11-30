@@ -1,8 +1,4 @@
 <div align="center">
-  <img src="https://github.com/zaryab02-eng/zaryab02-eng/blob/main/Muhammad%20Zaryab.png" alt="Zaryab Banner" width="100%">
-</div>
-
-<div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=35&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&repeat=true&random=false&width=600&height=80&lines=FRONTEND+DEVELOPER" alt="Typing SVG" />
 </div>
 
