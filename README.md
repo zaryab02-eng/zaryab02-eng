@@ -98,6 +98,25 @@ const Zaryab: Developer = {
 <table>
 <tr>
 <td width="50%">
+<h3 align="center">🍎 Apple Website Clone</h3>
+<div align="center">
+<a href="https://zaryabappleclone.vercel.app/" target="_blank">
+<img src="https://img.shields.io/badge/LIVE%20DEMO-00D4FF?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+<a href="https://github.com/zaryab02-eng/apple-clone" target="_blank">
+<img src="https://img.shields.io/badge/SOURCE%20CODE-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</div>
+<p align="center">
+Pixel-perfect clone of Apple's website built with React, Vite & Tailwind CSS. Fully responsive across all devices.
+</p>
+<p align="center">
+<img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tailwind-38B2AC?logo=tailwind-css&logoColor=white"/>
+</p>
+</td>
+<td width="50%">
 <h3 align="center">🎯 Age Calculator</h3>
 <div align="center">
 <a href="https://zaryab02-eng.github.io/frontend-pratice/" target="_blank">
@@ -114,15 +133,6 @@ A smart web application for precise age calculation with responsive design.
 <img src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black"/>
-</p>
-</td>
-<td width="50%">
-<h3 align="center">🚀 More Coming Soon</h3>
-<div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="200"/>
-</div>
-<p align="center">
-Currently working on exciting React.js projects. Stay tuned for updates!
 </p>
 </td>
 </tr>
