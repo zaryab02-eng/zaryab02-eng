@@ -1,8 +1,4 @@
 <div align="center">
-  <img src="https://github.com/zaryab02-eng/zaryab02-eng/blob/main/Muhammad%20Zaryab.png" alt="Zaryab Banner" width="100%">
-</div>
-
-<div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=35&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&repeat=true&random=false&width=600&height=80&lines=FRONTEND+DEVELOPER" alt="Typing SVG" />
 </div>
 
@@ -87,10 +83,6 @@ const Zaryab: Developer = {
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=zaryab02-eng&theme=black-ice&hide_border=true&stroke=0000&background=0d1117&ring=00D4FF&fire=00D4FF&currStreakLabel=00D4FF" width="90%" />
 </div>
-
-## <img src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif" width="40"> **CONTRIBUTION GRAPH**
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=zaryab02-eng&custom_title=Zaryab's%20Activity%20Graph&bg_color=0d1117&color=00D4FF&line=00D4FF&point=00D4FF&area_color=FFFFFF&title_color=FFFFFF&area=true&hide_border=true" width="100%"/>
 
 ## <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="40"> **FEATURED PROJECTS**
 
