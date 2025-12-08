@@ -75,10 +75,12 @@ const Zaryab: Developer = {
 
 ## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="40"> **GITHUB STATS**
 
-<div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=zaryab02-eng&show_icons=true&count_private=true&hide_border=true&title_color=00D4FF&icon_color=00D4FF&text_color=c9d1d9&bg_color=0d1117" />
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zaryab02-eng&layout=compact&hide_border=true&title_color=00D4FF&text_color=c9d1d9&bg_color=0d1117" />
-</div>
+<p align="center">
+<a href="https://github.com/Faithful001">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Faithful001&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Faithful001&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=zaryab02-eng&theme=black-ice&hide_border=true&stroke=0000&background=0d1117&ring=00D4FF&fire=00D4FF&currStreakLabel=00D4FF" width="90%" />
