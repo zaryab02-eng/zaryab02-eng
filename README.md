@@ -76,12 +76,22 @@ const Zaryab: Developer = {
 ## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="40"> **GITHUB STATS**
 
 <div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=zaryab02-eng&show_icons=true&count_private=true&hide_border=true&title_color=00D4FF&icon_color=00D4FF&text_color=c9d1d9&bg_color=0d1117" />
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zaryab02-eng&layout=compact&hide_border=true&title_color=00D4FF&text_color=c9d1d9&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=zaryab02-eng&show_icons=true&count_private=true&hide_border=true&title_color=00D4FF&icon_color=00D4FF&text_color=c9d1d9&bg_color=0d1117&cache_seconds=1800" alt="Zaryab's GitHub Stats" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zaryab02-eng&layout=compact&hide_border=true&title_color=00D4FF&text_color=c9d1d9&bg_color=0d1117&cache_seconds=1800&langs_count=8" alt="Top Languages" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zaryab02-eng&theme=black-ice&hide_border=true&stroke=0000&background=0d1117&ring=00D4FF&fire=00D4FF&currStreakLabel=00D4FF" width="90%" />
+  <img src="https://streak-stats.demolab.com/?user=zaryab02-eng&theme=dark&hide_border=true&stroke=0000&background=0d1117&ring=00D4FF&fire=00D4FF&currStreakLabel=00D4FF" width="90%" alt="GitHub Streak Stats" />
+</div>
+
+<!-- Alternative Streak Stats (if above doesn't work) -->
+<!-- <div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zaryab02-eng&theme=dark&hide_border=true&stroke=0000&background=0d1117&ring=00D4FF&fire=00D4FF&currStreakLabel=00D4FF" width="90%" alt="GitHub Streak Stats" />
+</div> -->
+
+<!-- Additional Stats Card (Optional) -->
+<div align="center">
+  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=zaryab02-eng&bg_color=0d1117&color=00D4FF&line=00D4FF&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" />
 </div>
 
 ## <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="40"> **FEATURED PROJECTS**
