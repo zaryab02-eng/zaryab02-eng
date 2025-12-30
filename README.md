@@ -81,10 +81,6 @@ const Zaryab: Developer = {
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zaryab02-eng&layout=compact&hide_border=true&title_color=00D4FF&text_color=c9d1d9&bg_color=0d1117" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zaryab02-eng&theme=black-ice&hide_border=true&stroke=0000&background=0d1117&ring=00D4FF&fire=00D4FF&currStreakLabel=00D4FF" width="90%" />
-</div>
-
 ## <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="40"> **FEATURED PROJECTS**
 
 <div align="center">
