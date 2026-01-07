@@ -79,13 +79,7 @@ const Zaryab: Developer = {
   
 <img width="49%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=zaryab02-eng&show_icons=true&count_private=true&hide_border=true&title_color=00D4FF&icon_color=00D4FF&text_color=c9d1d9&bg_color=0d1117" alt="Zaryab's GitHub Stats" />
 
-<img width="49%" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=zaryab02-eng&theme=dark&hide_border=true&background=0d1117&ring=00D4FF&fire=00D4FF&currStreakLabel=00D4FF" alt="GitHub Streak" />
-
 <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=zaryab02-eng&layout=compact&hide_border=true&title_color=00D4FF&text_color=c9d1d9&bg_color=0d1117" alt="Top Languages" />
-
-<img width="49%" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=zaryab02-eng&theme=github_dark&utcOffset=5.5" alt="Productive Time" />
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=zaryab02-eng&bg_color=0d1117&color=00D4FF&line=00D4FF&point=c9d1d9&area=true&hide_border=true" alt="Contribution Graph" />
 
 </div>
 
